@@ -12,14 +12,14 @@ const projects = [
     technologies: ['React.js', 'HTML', 'CSS'],
     summary: 'THIS PROJECT. A personal website template built using React.js, HTML, and CSS.',
     screenshot: 'personal_website_template_ss.png',
-    github: 'https://github.com/KoustubhSahu/Personal-Website-Template',
-    liveURL: 'https://koustubhsahu.github.io/Personal-Website-Template/',
+    github: 'https://github.com/varadpotdar18/personal-website',
+    liveURL: 'https://varad-personal-website.netlify.app/',
   },
   {
     title: "QR Code Generator",
     technologies: ['Python', 'Docker'],
     summary: 'Developed a QR code generator using Python and Docker',
-    github: 'https://github.com/KoustubhSahu/qrprog',
+    github: '',
   }
   
 ];
